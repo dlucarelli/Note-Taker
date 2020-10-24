@@ -13,7 +13,7 @@
 ## Description
 This is an application that you can write notes into on a webpage and it will persist the information in a database.
 ## Installation
-come back
+To install this application you must download the server.js, public folder and files, and db folder and file, then run npm install. You will also need express.
 ## Usage
 This application stores information in a db.json file that acts as a faux database, as in it stores persistent data on the server side of the application with input from the client side input fields.
 ## License
